@@ -94,6 +94,14 @@
 
 * [Rizzo](https://github.com/tacnetsol/ghidra_scripts/blob/master/readmes/rizzo.md) - Create fuzzy function signatures that can be applied to other projects.
 
+* [ghidra2dwarf](https://github.com/cesena/ghidra2dwarf) - 🐉 Export ghidra decompiled code to dwarf sections inside ELF binary
+
+* [ghostrings](https://github.com/nccgroup/ghostrings) - Ghidra scripts for recovering string definitions in Go binaries
+
+* [winapi-ghidra](https://github.com/Bigdrea6/winapi-ghidra) - Make the Windows API in Ghidra easy to read and informative.
+
+* [Ghidra VTable dumper](https://github.com/DisabledMallis/Ghidra-VTable-dumper) - Dump a classes VTable to C++ code you can copy into your class generated with reclass
+
 
 ## Materials
 
