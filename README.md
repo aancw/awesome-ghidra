@@ -70,6 +70,31 @@
 
 * [Intezer Analyze Ghidra Plugin](https://github.com/intezer/analyze-community-ghidra-plugin) -  Ghidra plugin for Intezer.
 
+* [ARM ROP Finder](https://github.com/tacnetsol/ghidra_scripts/blob/master/ArmRopFind.py) -  Script to find and support finding ARM ROP gadgets.
+
+* [Call Chain](https://github.com/tacnetsol/ghidra_scripts/blob/master/CallChain.py) -  Find call chains between two user specified functions. Results are displayed in a png.
+
+* [Codatify](https://github.com/tacnetsol/ghidra_scripts/blob/master/readmes/codatify.md) -  Codacitify
+
+* [Fluorescence](https://github.com/tacnetsol/ghidra_scripts/blob/master/Fluorescence.py) -  Highlight function calls.
+
+* [Function Profiler](https://github.com/tacnetsol/ghidra_scripts/blob/master/FunctionProfiler.py) -  Display cross refs from the current function.
+
+* [Leaf Blower - Format Strings](https://github.com/tacnetsol/ghidra_scripts/blob/master/LeafBlowerFormatString.py) -  Find functions that accept format strings as parameters.
+  
+* [Leaf Blower - Leaf Functions](https://github.com/tacnetsol/ghidra_scripts/blob/master/LeafBlowerLeafFunctions.py) -  Identify potential leaf functions such as strcpy, strlen, etc.
+
+* [Local Cross References](https://github.com/tacnetsol/ghidra_scripts/blob/master/LocalXRefs.py) - Find references to items in the current function.
+
+* [MIPS ROP Finder](https://github.com/tacnetsol/ghidra_scripts/blob/master/readmes/mips_rop.md) - Scripts to find and support finding MIPS ROP gadgets.
+
+* [Operator](https://github.com/tacnetsol/ghidra_scripts/blob/master/Operator.py) - Display all calls to a function and identify the source of the parameters it is called with taking variadic arguments into account if they are present.
+
+* [Rename Variables](https://github.com/tacnetsol/ghidra_scripts/blob/master/RenameVariables.py) - Rename saved stack variables. (MIPS only)
+
+* [Rizzo](https://github.com/tacnetsol/ghidra_scripts/blob/master/readmes/rizzo.md) - Create fuzzy function signatures that can be applied to other projects.
+
+
 ## Materials
 
 * [リバースエンジニアリングツールGhidra実践ガイド -セキュリティコンテスト入門からマルウェア解析まで- (Compass Booksシリーズ)](https://www.amazon.co.jp/dp/4839973776/) - The Practical guide book to Ghidra written in Japanese
@@ -100,3 +125,4 @@ SANS Digital Forensics and Incident Response channel
 * [Ghidraaas](https://github.com/Cisco-Talos/Ghidraaas) - simple web server that exposes Ghidra analysis through REST APIs
 
 * [Ghidra Server](https://www.ghidra-server.org/) - Ghidra-Server.org provides a collaboration server on the internet for the software reverse engineering (SRE) global community using the open source software (OSS) project Ghidra's server feature.
+
